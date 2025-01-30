@@ -36,6 +36,6 @@ A Academia .NET da Atos me proporcionou o conhecimento necessário para decidir 
 ### Estatísticas: 
 <div>
 <a href="https://github.com/AndryaDornelles">
-<img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndryaDornelles&layout=compact&langs_count=7&theme=catppuccin_latte"/>
-<img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api?username=AndryaDornelles&show_icons=true&theme=catppuccin_latte&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndryaDornelles&layout=compact&langs_count=7&theme=catppuccin_latte"/>
+<img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api?username=AndryaDornelles&show_icons=true&theme=catppuccin_latte&include_all_commits=true&count_private=true"/>
 </div>
