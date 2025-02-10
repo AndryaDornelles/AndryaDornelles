@@ -1,6 +1,6 @@
 # 👋 Oie, eu sou Andrya Dornelles!
 
-Sou desenvolvedora .NET apaixonada por tecnologia e aprendizado contínuo. Atualmente, estou focada em estudar o desenvolvimento de aplicações utilizando ASP.NET, C#, SQL Server, WebForms e APIs REST. <br>
+Sou desenvolvedora .NET apaixonada por tecnologia e aprendizado. Atualmente, estou focada em estudar o desenvolvimento de aplicações utilizando ASP.NET, C#, SQL Server, WebForms e APIs REST. <br>
 
 Minha formação inicial foi na área da saúde, mas em 2024 decidi buscar a transição para tecnologia, onde busco uma oportunidade. <br>
 A Academia .NET da Atos me proporcionou o conhecimento necessário para decidir focar nesse objetivo.
