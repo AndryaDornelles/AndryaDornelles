@@ -1,6 +1,6 @@
 # 👋 Oie, eu sou Andrya Dornelles!
 
-Sou desenvolvedora apaixonada por tecnologia e aprendizado constante. Atualmente, atuo como Estagiária em Front-End na ADP, integrando o time de Payroll Innovation (PI).. <br>
+Sou desenvolvedora apaixonada por tecnologia e aprendizado constante. Atualmente, atuo como Estagiária em Front-End na ADP, integrando o time de Payroll Innovation (PI). <br>
 
 No meu dia a dia, estou focada no desenvolvimento com TypeScript, Stencil e Cypress, além de seguir evoluindo meus conhecimentos em JavaScript e boas práticas de desenvolvimento front-end.<br>
 
