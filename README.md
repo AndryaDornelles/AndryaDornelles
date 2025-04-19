@@ -1,13 +1,16 @@
 # 👋 Oie, eu sou Andrya Dornelles!
 
-Sou desenvolvedora .NET apaixonada por tecnologia e aprendizado. Atualmente, estou focada em estudar o desenvolvimento de aplicações utilizando ASP.NET, C#, SQL Server, WebForms e APIs REST. <br>
+Sou desenvolvedora apaixonada por tecnologia e aprendizado constante. Atualmente, atuo como Estagiária em Front-End na ADP, integrando o time de Payroll Innovation (PI).. <br>
 
-Minha formação inicial foi na área da saúde, mas em 2024 decidi buscar a transição para tecnologia, onde busco uma oportunidade. <br>
-A Academia .NET da Atos me proporcionou o conhecimento necessário para decidir focar nesse objetivo.
+No meu dia a dia, estou focada no desenvolvimento com TypeScript, Stencil e Cypress, além de seguir evoluindo meus conhecimentos em JavaScript e boas práticas de desenvolvimento front-end.<br>
 
-:book: Atualmente, curso Análise e Desenvolvimento de Sistemas e complemento meus estudos com cursos especializados na Udemy, Alura e Balta.io
+Minha formação inicial foi na área da saúde, mas em 2024 decidi fazer a transição para tecnologia — um passo que mudou minha vida. 
+<br>
+A Academia .NET da Atos me deu a base para iniciar essa jornada, e hoje sigo firme nesse caminho.
 
-💼 Sou dedicada, focada em aprendizado contínuo e sempre pronta para enfrentar novos desafios com toda a garra que possuo.
+:book: Atualmente, curso Análise e Desenvolvimento de Sistemas, e complemento meus estudos com cursos na Udemy, Alura e Rocketseat.
+
+💼 Sou dedicada, determinada e apaixonada por aprendizado contínuo. Estou sempre pronta para novos desafios e oportunidades de crescimento.
 
 🪧 Aberta a oportunidades e conexões! <br>
 
@@ -21,11 +24,17 @@ A Academia .NET da Atos me proporcionou o conhecimento necessário para decidir 
    &nbsp;&nbsp;&nbsp;
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="15" height="15"> CSS3
    &nbsp;&nbsp;&nbsp;
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="15" height="15"> JavaScript
+   &nbsp;&nbsp;&nbsp;
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="15" height="15"> TypeScript
+   &nbsp;&nbsp;&nbsp;
+   <img src="https://stenciljs.com/docs/img/components/product-dropdown/logo-dark.png" width="15" height="15"> Stencil
+   &nbsp;&nbsp;&nbsp;
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original.svg" width="15" height="15"> Cypress
+   &nbsp;&nbsp;&nbsp;
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="15" height="15"> CSharp
    &nbsp;&nbsp;&nbsp;
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="15" height="15"/> SQL Server
-   &nbsp;&nbsp;&nbsp;
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="15" height="15"/> Git
    &nbsp;&nbsp;&nbsp;
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="15" height="15"/> GitHub
    &nbsp;&nbsp;&nbsp;
